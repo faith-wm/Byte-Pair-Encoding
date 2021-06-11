@@ -1,4 +1,4 @@
-# Byte-Pair-Encoding
+# Byte Pair Encoding
 
 Neural Machine Translation improved the  quality of translation models. However, conventional NMT systems cannot correctly translate rare words [2].  
 It is important to find a method of translating rare words because improper translation in some domains can change the meaning [1,2]. 
