@@ -1,7 +1,4 @@
-
-
-# copied directly from https://leimao.github.io/blog/Byte-Pair-Encoding/
-
+#copied  from https://leimao.github.io/blog/Byte-Pair-Encoding/
 
 import re, collections, csv, time
 from _collections import OrderedDict
